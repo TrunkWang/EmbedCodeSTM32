@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mut",
+				"mutetime"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"AVSE",
+				"AVS_EVENT_NOR"
+			],
+			[
+				"o",
+				"to_obj"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ne",
+				"newnew_class"
+			],
+			[
+				"de",
+				"decoratorclass"
+			],
+			[
+				"aaa",
+				"aaa_sum"
+			],
+			[
+				"pre",
+				"pre_str"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control:",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 226.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver"
+	],
+	"file_history":
+	[
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver/src/misc.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/stm32f10x_it.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/main.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/CMSIS/stm32f10x.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/CMSIS/core_cm3.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_md_vl.s",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_ld_vl.s",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_hd_vl.s",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_cl.s",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/led.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/led.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_md.s",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_rundemo/LinuxAutoRun/code/pcm.c",
+		"/H/01-学习资料/C51/5--实验程序/5--实验程序/基础实验例程/实验26：红外通信/main.c",
+		"/H/01-学习资料/C51/5--实验程序/5--实验程序/基础实验例程/实验27：AD模数转换/电位器AD值/main.c",
+		"/H/00-github/EmbedCodeC51/20180816_00/uart.LST",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_rundemo/LinuxAutoRun/code/main.c",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_rundemo/LinuxAutoRun/code/common.h",
+		"/H/00-github/EmbedCodeC51/20180816_00/delay.LST",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B003/01_Src/src/AVSNestSDK.c",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_rundemo/LinuxAutoRun/code/Makefile",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/20180625_melody_compare/V200R004B001_melody_100_fix/01_Src/vs2008/sln/avscore/241melody_db.log",
+		"/F/00-serverback/00-svn/移植组/2012_emTTS项目/客户包/试用版/20180319-emTTS4.00-深圳市中科海信科技有限公司-MakeFile-Linux/内部信息/重要文件/Makefile",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B003/01_Src/sample/demo.c",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B003/01_Src/src/avs_sdk.h",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B003/01_Src/src/avs_sdk.c",
+		"/F/00-serverback/00-svn/移植组/2012_emTTS项目/客户包/试用版/20160328-emTTS4.00-上海小i机器人-MakeFile-Linux/内部信息/重要文件/Makefile",
+		"/C/Users/Administrator/Desktop/新建文本文档.txt",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/vs2008/sln/avscore/1739.log",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001S16M000/01_Src/vs2008/sln/avscore/stander.log",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B003/01_Src/bin/20180711_00_NOVATEK_NT98513_fix_128_release_32/sdk/sample/demo.c",
+		"/F/00-serverback/00-git/GC_CUSTOMER/GC_CUSTOMER/00-试用客户/20180702_v243v30016000_fix_128_Android_广东小乖智能科技有限公司/客户信息/MustReadMe.txt",
+		"/F/01-workdir/11-webspeech/20180511/Samples/lf0_1级/printlf0_2_file.py",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/20180625_melody_compare/V200R004B001_melody_100_fix/01_Src/make/32bits/Makefile.20180504_00.Espressif_esp32_fix_128_release_32",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/20180625_melody_compare/V200R004B001_melody_100_fix/01_Src/bin/EspressifEsp32_fix_128_release_32_melody_20180625/avscore/include/avs_api.h",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/20180625_melody_compare/V200R004B001_melody_100_fix/01_Src/include/core_symbols.h",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/20180625_melody_compare/20180625_melody/20180625melody/20180625melody/log.xls",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/20180625_melody_compare/20180625_melody/log/log_Win_01_detects_无爆静策略.xls",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/20180625_melody_compare/20180625_melody/log/log_Win_00.xls",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001_melody_100_fix_clean/01_Src/make/32bits/Makefile.20180504_00.Espressif_esp32_fix_128_release_32",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/20180625_melody_compare/20180625_melody/20180625melody/20180625melody/Makefile.fix",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/20180625_melody_compare/20180625_melody/20180625melody/20180625melody/Makefile",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/20180625_melody_compare/20180625_melody/20180625melody/20180625melody/Makefile.20180504_00.Espressif_esp32_fix_128_release_32",
+		"/C/Users/Administrator/Desktop/Makefile",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_Evaluate20180606/Device/code/Makefile",
+		"/F/00-serverback/00-svn/移植组/2012_emTTS项目/项目发布/emTTS4.01版-粤A1G158，去掉G和S搭3数字读成国省道/程序/emTTS 4.01版-仅改名移植用/emTTS/Makefile",
+		"/F/00-serverback/00-svn/移植组/2012_emTTS项目/项目发布/emTTS4.01版-粤A1G158，去掉G和S搭3数字读成国省道/程序/emTTS 4.01版-仅改名移植用/emTTS/emApiDefine.h",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001_melody_100_fix/01_Src/make/32bits/Makefile.20180504_00.Espressif_esp32_float_128_release_32",
+		"/F/02-Esp32code/esp-idf-v3.0_20180524/components/avscore/include/symbols.h",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001_melody_100_fix/01_Src/make/32bits/Makefile.20180504_00.Espressif_esp32_fix_128_release_32",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/include/avs_api.h",
+		"/F/02-Esp32code/esp-idf-v3.0_20180524/examples/avsnest/build/avsnest.map",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001S16M000/01_Src/vs2008/sln/avscore/Release/avscore.exe.intermediate.manifest",
+		"/F/00-serverback/00-git/GC_CUSTOMER/GC_CUSTOMER/00-试用客户/20180612_v243v24208000_fix_128_Linux_杭州登虹科技有限公司/客户信息/avs_client_info.h",
+		"/C/Users/Administrator/Desktop/avs_client_info.h",
+		"/F/00-serverback/00-git/GC_CUSTOMER/GC_CUSTOMER/00-试用客户/20180611_v243v24216000_fix_128_Linux_北京奇虎360科技有限公司/20180611-北京奇虎360科技有限公司_16K_Linux_SDK/sdk/sample/demo.c",
+		"/F/00-serverback/00-git/GC_CUSTOMER/GC_CUSTOMER/00-试用客户/20180611_v243v24216000_fix_128_Linux_北京奇虎360科技有限公司/客户信息/avs_client_info.h",
+		"/F/00-serverback/00-git/GC_CUSTOMER/GC_CUSTOMER/00-试用客户/20180611_v243v24216000_fix_128_Linux_北京奇虎360科技有限公司/20180611-北京奇虎360科技有限公司_16K_Linux_SDK/sdk/include/avs_sdk.h",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B003/01_Src/bin/20180314_00_HISIV300_fix_128_release_32/sdk/include/avs_sdk.h",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B003/01_Src/src/avs_client_info.h",
+		"/J/avs_client_info.h",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/make/32bits/Makefile.20180124_00.HUAWEI_HISIV300_fix_128_release_32",
+		"/C/Users/Administrator/Downloads/201806081524.log",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B002/01_Src/src/avs_sdk.c",
+		"/F/00-serverback/00-git/HX_AVSCORE_0/HX_AVSCORE/V200R004B001S16M000/01_Src/core/algo/avs_core.c",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001S16M000/01_Src/core/algo/avs_core.c",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_rundemo/LinuxAutoRun/code/avs_sdk.h",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001S16M000/01_Src/include/avs_api.h",
+		"/E/00-备份项目/06-avssdk_demo/AVSSDK_rundemo/LinuxAutoRun/code/Makefile",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001S16M000/01_Src/make/32bits/Makefile.20180504_00.Espressif_esp32_fix_128_release_32",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001S16M000/01_Src/make/32bits/Makefile.20180101_00.SAMSUNG_Exynos4412_fix_128_release_32",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/make/32bits/Makefile.20180101_00.SAMSUNG_Exynos4412_fix_128_release_32",
+		"/F/00-serverback/00-git/HX_AVSCORE_0/HX_AVSCORE/V200R004B001S16M000/01_Src/make/32bits/Makefile.20180504_00.Espressif_esp32_fix_128_release_32",
+		"/F/00-serverback/00-git/HX_AVSCORE_0/HX_AVSCORE/V200R004B001S16M000/01_Src/make/32bits/Makefile.20180101_00.SAMSUNG_Exynos4412_fix_128_release_32",
+		"/C/Users/Administrator/Downloads/201806072000.log",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B002/01_Src/src/avs_client_info.h",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B002/01_Src/make/32bits/Makefile.20180101_00.SAMSUNG_Exynos4412_fix_128_release_32",
+		"/F/00-serverback/00-git/HX_AVSCORE_0/HX_AVSCORE/V200R004B001S16M000/01_Src/include/avs_api.h",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_rundemo/LinuxAutoRun/sdk/include/avs_sdk.h",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B003/01_Src/src/avs_auth.c",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/core/algo/avs_core.c",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_rundemo/LinuxAutoRun/code/common.c",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_rundemo/LinuxAutoRun/code/Audio.c",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_rundemo/LinuxAutoRun/sdk/sample/demo.c",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B003/01_Src/make/32bits/Makefile.20180101_00.SAMSUNG_Exynos4412_fix_128_release_32",
+		"/H/00-github/PythonNote/20180606_00.py",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_PC评估软件20180530/wav/cmdwin.bat",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_PC评估软件20180530/MergeFileList.txt",
+		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_Evaluate20180529/Windos/AVSSDK_Evaluate_PC/AVSSDK_Evaluate_PC/mergefilelist.txt",
+		"/H/00-github/PythonNote/20180605_00.py",
+		"/H/00-github/PythonNote/20180602_01.py",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/include/symbols.h",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/include/core_symbols.h",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/tools/core_symbols.txt",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/bin/x86_fix_128_debug_32/avscore/include/symbols.h",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/make/32bits/Makefile.x86_float_128_debug_32",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/tools/symbols.txt",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/tools/run.bat",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/tools/encrypt.c",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/make/32bits/Makefile.x86_fix_128_debug_32",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/tools/gen_symbols.sh",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/tools/Makefile",
+		"/H/00-github/PythonNote/pythonnote.sublime-project",
+		"/H/00-github/PythonNote/20180528_01/sub.pyc"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Active"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 127.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 139.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "STM32_Project.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
