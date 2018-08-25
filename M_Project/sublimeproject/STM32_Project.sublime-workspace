@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"U",
+				"Uart1_param"
+			],
+			[
 				"mut",
 				"mutetime"
 			],
@@ -43,6 +47,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/main.c",
+			"settings":
+			{
+				"buffer_size": 2608,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -85,22 +98,41 @@
 	"expanded_folders":
 	[
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project",
-		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver"
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/FreeRTOS",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src"
 	],
 	"file_history":
 	[
-		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver/src/misc.c",
-		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/stm32f10x_it.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/FreeRTOS/Source/include/queue.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/u_lcd.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/FreeRTOS/Source/tasks.c",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/main.c",
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001S16M000_201808231539/01_Src/core/algo/avs_core.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/FreeRTOS/Source/include/task.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/FreeRTOS/Source/include/mpu_wrappers.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/u_uart.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/CMSIS/system_stm32f10x.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/u_sys.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver/src/stm32f10x_rcc.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver/inc/misc.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_md.s",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver/src/stm32f10x_usart.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/stm32f10x_it.c",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/CMSIS/stm32f10x.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver/inc/stm32f10x_usart.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/CMSIS/system_stm32f10x.h",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/CMSIS/core_cm3.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/List/project.map",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/led.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver/src/stm32f10x_gpio.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver/inc/stm32f10x_gpio.h",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StdPeriphDriver/src/misc.c",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_md_vl.s",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_ld_vl.s",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_hd_vl.s",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_cl.s",
-		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/led.c",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/led.h",
-		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/StartUp/startup_stm32f10x_md.s",
 		"/D/04-UbuntuOS/01-ShareDir/AVSSDK_rundemo/LinuxAutoRun/code/pcm.c",
 		"/H/01-学习资料/C51/5--实验程序/5--实验程序/基础实验例程/实验26：红外通信/main.c",
 		"/H/01-学习资料/C51/5--实验程序/5--实验程序/基础实验例程/实验27：AD模数转换/电位器AD值/main.c",
@@ -196,11 +228,11 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 108.0,
 		"where_history":
 		[
 		]
@@ -228,14 +260,44 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 693.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -276,7 +338,7 @@
 	"project": "STM32_Project.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":

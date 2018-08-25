@@ -374,7 +374,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F10X_MD,USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>.\CMSIS;.\StdPeriphDriver\inc;.\Users\Inc</IncludePath>
+              <IncludePath>.\CMSIS;.\StdPeriphDriver\inc;.\Users\Inc;.\FreeRTOS\Source\include;.\FreeRTOS\Source\portable\Keil\ARM_CM3;.\FreeRTOS\Source</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -392,7 +392,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath></IncludePath>
+              <IncludePath>.\FreeRTOS\Source</IncludePath>
             </VariousControls>
           </Aads>
           <LDads>
@@ -405,7 +405,7 @@
             <TextAddressRange>0x08000000</TextAddressRange>
             <DataAddressRange>0x20000000</DataAddressRange>
             <pXoBase></pXoBase>
-            <ScatterFile>.\Obj\project.sct</ScatterFile>
+            <ScatterFile>.\Scatter\project.sct</ScatterFile>
             <IncludeLibs></IncludeLibs>
             <IncludeLibsPath></IncludeLibsPath>
             <Misc></Misc>
@@ -434,11 +434,6 @@
           <GroupName>StdPeriphDriver</GroupName>
           <Files>
             <File>
-              <FileName>misc.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\StdPeriphDriver\src\misc.c</FilePath>
-            </File>
-            <File>
               <FileName>stm32f10x_rcc.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\StdPeriphDriver\src\stm32f10x_rcc.c</FilePath>
@@ -447,6 +442,16 @@
               <FileName>stm32f10x_gpio.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\StdPeriphDriver\src\stm32f10x_gpio.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f10x_usart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\StdPeriphDriver\src\stm32f10x_usart.c</FilePath>
+            </File>
+            <File>
+              <FileName>misc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\StdPeriphDriver\src\misc.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -474,9 +479,54 @@
               <FilePath>.\Users\Src\main.c</FilePath>
             </File>
             <File>
-              <FileName>led.c</FileName>
+              <FileName>u_uart.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\Users\Src\led.c</FilePath>
+              <FilePath>.\Users\Src\u_uart.c</FilePath>
+            </File>
+            <File>
+              <FileName>u_sys.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Users\Src\u_sys.c</FilePath>
+            </File>
+            <File>
+              <FileName>u_led.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Users\Src\u_led.c</FilePath>
+            </File>
+            <File>
+              <FileName>u_lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Users\Src\u_lcd.c</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>FreeRTOS</GroupName>
+          <Files>
+            <File>
+              <FileName>heap_4.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\FreeRTOS\Source\portable\MemMang\heap_4.c</FilePath>
+            </File>
+            <File>
+              <FileName>list.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\FreeRTOS\Source\list.c</FilePath>
+            </File>
+            <File>
+              <FileName>tasks.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\FreeRTOS\Source\tasks.c</FilePath>
+            </File>
+            <File>
+              <FileName>port.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\FreeRTOS\Source\portable\Keil\ARM_CM3\port.c</FilePath>
+            </File>
+            <File>
+              <FileName>queue.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\FreeRTOS\Source\queue.c</FilePath>
             </File>
           </Files>
         </Group>
