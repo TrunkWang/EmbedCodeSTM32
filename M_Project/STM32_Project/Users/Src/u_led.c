@@ -2,10 +2,12 @@
 #include"stm32f10x.h"
 
 
+#define LED_PB_IO	(GPIO_Pin_5)
+
 void u_led_init(void)
 {
 	GPIO_InitTypeDef GPIO_InitStructure;
-	GPIO_InitStructure.GPIO_Pin = GPIO_Pin_7;
+	GPIO_InitStructure.GPIO_Pin = LED_PB_IO;
 	GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;
 	GPIO_InitStructure.GPIO_Mode = GPIO_Mode_Out_PP;
 	
@@ -32,10 +34,10 @@ void u_led_switch(unsigned char ON_OFF)
 {
 	if( ON_OFF > 0 )
 	{
-		GPIO_WriteBit(GPIOB, GPIO_Pin_7, Bit_SET);
+		GPIO_WriteBit(GPIOB, LED_PB_IO, Bit_SET);
 	}
 	else
 	{
-		GPIO_WriteBit(GPIOB, GPIO_Pin_7, Bit_RESET);
+		GPIO_WriteBit(GPIOB, LED_PB_IO, Bit_RESET);
 	}
 }

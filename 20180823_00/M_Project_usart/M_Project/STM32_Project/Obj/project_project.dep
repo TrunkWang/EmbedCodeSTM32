@@ -1,0 +1,108 @@
+Dependencies for Project 'project', Target 'project': (DO NOT MODIFY !)
+F (.\CMSIS\system_stm32f10x.c)(0x5B7BC48B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (CMSIS\stm32f10x.h)(0x56907B4F)
+I (CMSIS\core_cm3.h)(0x56907B4F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (CMSIS\system_stm32f10x.h)(0x56907B4F)
+I (.\Users\Inc\stm32f10x_conf.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x56907B49)
+I (.\CMSIS\stm32f10x.h)(0x56907B4F)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\misc.h)(0x56907B49)
+F (.\CMSIS\core_cm3.c)(0x56907B4F)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\core_cm3.o --omf_browse .\obj\core_cm3.crf --depend .\obj\core_cm3.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+F (.\StdPeriphDriver\src\stm32f10x_rcc.c)(0x56907B49)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_rcc.o --omf_browse .\obj\stm32f10x_rcc.crf --depend .\obj\stm32f10x_rcc.d)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x56907B49)
+I (.\CMSIS\stm32f10x.h)(0x56907B4F)
+I (.\CMSIS\core_cm3.h)(0x56907B4F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (.\CMSIS\system_stm32f10x.h)(0x56907B4F)
+I (.\Users\Inc\stm32f10x_conf.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\misc.h)(0x56907B49)
+F (.\StdPeriphDriver\src\stm32f10x_gpio.c)(0x56907B49)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_gpio.o --omf_browse .\obj\stm32f10x_gpio.crf --depend .\obj\stm32f10x_gpio.d)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x56907B49)
+I (.\CMSIS\stm32f10x.h)(0x56907B4F)
+I (.\CMSIS\core_cm3.h)(0x56907B4F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (.\CMSIS\system_stm32f10x.h)(0x56907B4F)
+I (.\Users\Inc\stm32f10x_conf.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\misc.h)(0x56907B49)
+F (.\StdPeriphDriver\src\stm32f10x_usart.c)(0x56907B49)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_usart.o --omf_browse .\obj\stm32f10x_usart.crf --depend .\obj\stm32f10x_usart.d)
+I (.\StdPeriphDriver\inc\stm32f10x_usart.h)(0x56907B49)
+I (.\CMSIS\stm32f10x.h)(0x56907B4F)
+I (.\CMSIS\core_cm3.h)(0x56907B4F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (.\CMSIS\system_stm32f10x.h)(0x56907B4F)
+I (.\Users\Inc\stm32f10x_conf.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\misc.h)(0x56907B49)
+F (.\StdPeriphDriver\src\misc.c)(0x56907B49)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\misc.o --omf_browse .\obj\misc.crf --depend .\obj\misc.d)
+I (.\StdPeriphDriver\inc\misc.h)(0x56907B49)
+I (.\CMSIS\stm32f10x.h)(0x56907B4F)
+I (.\CMSIS\core_cm3.h)(0x56907B4F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (.\CMSIS\system_stm32f10x.h)(0x56907B4F)
+I (.\Users\Inc\stm32f10x_conf.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x56907B49)
+F (.\StartUp\startup_stm32f10x_md.s)(0x56907B49)(--cpu Cortex-M3 -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x--pd "__UVISION_VERSION SETA 522"--list .\list\startup_stm32f10x_md.lst --xref -o .\obj\startup_stm32f10x_md.o --depend .\obj\startup_stm32f10x_md.d)
+F (.\Users\Src\stm32f10x_it.c)(0x5B7C07BE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_it.o --omf_browse .\obj\stm32f10x_it.crf --depend .\obj\stm32f10x_it.d)
+I (.\Users\Inc\stm32f10x_it.h)(0x56907B49)
+I (.\CMSIS\stm32f10x.h)(0x56907B4F)
+I (.\CMSIS\core_cm3.h)(0x56907B4F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (.\CMSIS\system_stm32f10x.h)(0x56907B4F)
+I (.\Users\Inc\stm32f10x_conf.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\misc.h)(0x56907B49)
+F (.\Users\Src\main.c)(0x5B7E3031)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (Users\Src\led.h)(0x5B7C0E33)
+I (.\CMSIS\stm32f10x.h)(0x56907B4F)
+I (.\CMSIS\core_cm3.h)(0x56907B4F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (.\CMSIS\system_stm32f10x.h)(0x56907B4F)
+I (.\Users\Inc\stm32f10x_conf.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\misc.h)(0x56907B49)
+I (.\Users\Inc\u_sys.h)(0x5B7C0286)
+I (.\Users\Inc\u_uart.h)(0x5B7C0EF0)
+F (.\Users\Src\led.c)(0x5B7BBC72)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\led.o --omf_browse .\obj\led.crf --depend .\obj\led.d)
+I (Users\Src\led.h)(0x5B7C0E33)
+I (.\CMSIS\stm32f10x.h)(0x56907B4F)
+I (.\CMSIS\core_cm3.h)(0x56907B4F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (.\CMSIS\system_stm32f10x.h)(0x56907B4F)
+I (.\Users\Inc\stm32f10x_conf.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\misc.h)(0x56907B49)
+F (.\Users\Src\u_uart.c)(0x5B7E2FF4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\u_uart.o --omf_browse .\obj\u_uart.crf --depend .\obj\u_uart.d)
+I (.\Users\Inc\u_uart.h)(0x5B7C0EF0)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x56907B49)
+I (.\CMSIS\stm32f10x.h)(0x56907B4F)
+I (.\CMSIS\core_cm3.h)(0x56907B4F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (.\CMSIS\system_stm32f10x.h)(0x56907B4F)
+I (.\Users\Inc\stm32f10x_conf.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\misc.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_usart.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_dma.h)(0x5B7D28E6)
+F (.\Users\Src\u_sys.c)(0x5B7C03BB)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users\Inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\ST\STM32F10x-D__UVISION_VERSION="522" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\obj\u_sys.o --omf_browse .\obj\u_sys.crf --depend .\obj\u_sys.d)
+I (.\Users\Inc\u_sys.h)(0x5B7C0286)
+I (.\CMSIS\stm32f10x.h)(0x56907B4F)
+I (.\CMSIS\core_cm3.h)(0x56907B4F)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (.\CMSIS\system_stm32f10x.h)(0x56907B4F)
+I (.\Users\Inc\stm32f10x_conf.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x56907B49)
+I (.\StdPeriphDriver\inc\misc.h)(0x56907B49)

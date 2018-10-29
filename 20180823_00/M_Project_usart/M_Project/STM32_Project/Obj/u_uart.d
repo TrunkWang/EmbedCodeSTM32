@@ -1,0 +1,15 @@
+.\obj\u_uart.o: Users\Src\u_uart.c
+.\obj\u_uart.o: .\Users\Inc\u_uart.h
+.\obj\u_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\u_uart.o: .\StdPeriphDriver\inc\stm32f10x_rcc.h
+.\obj\u_uart.o: .\CMSIS\stm32f10x.h
+.\obj\u_uart.o: .\CMSIS\core_cm3.h
+.\obj\u_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\u_uart.o: .\CMSIS\system_stm32f10x.h
+.\obj\u_uart.o: .\Users\Inc\stm32f10x_conf.h
+.\obj\u_uart.o: .\StdPeriphDriver\inc\stm32f10x_gpio.h
+.\obj\u_uart.o: .\CMSIS\stm32f10x.h
+.\obj\u_uart.o: .\StdPeriphDriver\inc\stm32f10x_rcc.h
+.\obj\u_uart.o: .\StdPeriphDriver\inc\misc.h
+.\obj\u_uart.o: .\StdPeriphDriver\inc\stm32f10x_usart.h
+.\obj\u_uart.o: .\StdPeriphDriver\inc\stm32f10x_dma.h

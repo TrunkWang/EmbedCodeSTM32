@@ -47,15 +47,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/main.c",
-			"settings":
-			{
-				"buffer_size": 2608,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -98,16 +89,25 @@
 	"expanded_folders":
 	[
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project",
-		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/FreeRTOS",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Inc",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src"
 	],
 	"file_history":
 	[
+		"/F/00-serverback/00-git/GC_CUSTOMER/GC_CUSTOMER/00-试用客户/20181029_v243v24208000_fix_128_Linux_深圳看护家科技有限公司/客户信息/avs_client_info.h",
+		"/G/00-测试数据集/00-荣涛测试使用测试集/荣涛曾经用过的测试数据/第一测试集/lf0/run.bat",
+		"/H/00-github/05-QRCode/zint-2.6.3_rc2.src/win32/zint_cmdline_vc6/Debug/run.bat",
+		"/F/00-serverback/00-git/GC_CUSTOMER/GC_CUSTOMER/00-试用客户/20180904_v243v24316000_fix_128_Linux_深圳值得看云技术有限公司/20180926-深圳值得看云技术有限公司_16K_Linux_SDK/doc/AVSNest AVSSDK_For_Linux_用户集成指南v2.4.5.pdf",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/main.c",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Scatter/project.sct",
+		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Inc/u_codec.h",
+		"/F/00-serverback/00-git/GC_CUSTOMER/GC_CUSTOMER/00-试用客户/20180904_v243v24316000_fix_128_Linux_深圳值得看云技术有限公司/20180904-深圳值得看云技术有限公司_16K_Linux_SDK/sdk/sample/demo.c",
+		"/H/01-学习资料/C51/8--ARM 例程/8--ARM 例程/1 ARM例程/stm32例程/15，AD-DA/1，ADCprintf输出/工程模板/Users/Src/smg.c",
+		"/F/00-serverback/00-git/GC_AVSSDK/GC_AVSSDK/V200R004B003/01_Src/bin/20180808_00_ANYKA_AK3918V200_fix_128_release_32/sdk/lib/libavssdk.so",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/FreeRTOS/Source/include/queue.h",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/u_lcd.c",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/FreeRTOS/Source/tasks.c",
-		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/main.c",
 		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B001S16M000_201808231539/01_Src/core/algo/avs_core.c",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/FreeRTOS/Source/include/task.h",
 		"/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/FreeRTOS/Source/include/mpu_wrappers.h",
@@ -222,9 +222,7 @@
 		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/tools/encrypt.c",
 		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/make/32bits/Makefile.x86_fix_128_debug_32",
 		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/tools/gen_symbols.sh",
-		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/tools/Makefile",
-		"/H/00-github/PythonNote/pythonnote.sublime-project",
-		"/H/00-github/PythonNote/20180528_01/sub.pyc"
+		"/F/00-serverback/00-git/HX_AVSCORE/HX_AVSCORE/V200R004B002S16M000/01_Src/tools/Makefile"
 	],
 	"find":
 	{
@@ -260,38 +258,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/H/00-github/EmbedCodeSTM32/M_Project/STM32_Project/Users/Src/main.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2608,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								700,
-								700
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 693.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
